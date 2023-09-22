@@ -1,0 +1,11 @@
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	194404061	Predelay			\Default Work Unit\Reverb\Predelay	
+	1299678381	Decay			\Default Work Unit\Reverb\Decay	
+	2947715227	HFDamping			\Default Work Unit\Reverb\HFDamping	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	2933838247	SmallRoom			\Default Work Unit\Master Audio Bus\SmallRoom	
+
+Effect plug-ins	ID	Name	Type				Notes
+	2995775460	Room_Small	Wwise RoomVerb			
+

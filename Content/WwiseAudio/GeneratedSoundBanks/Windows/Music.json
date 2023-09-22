@@ -1,0 +1,1035 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "145",
+  "SoundBanks": [
+   {
+    "Id": "3991942870",
+    "Type": "User",
+    "GUID": "{6094B3C2-195E-485B-8A87-3F3562FACEBE}",
+    "Language": "SFX",
+    "Hash": "{F9CB1318-DD75-565B-88E9-6789AB51817F}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Music",
+    "ShortName": "Music",
+    "Path": "Music.bnk",
+    "Media": [
+     {
+      "Id": "18704011",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\FoodstepSwitchContainer\\Sand\\PM_FN_Footsteps_2B.wav",
+      "CachePath": "SFX/FPS_Wwise/FoodstepSwitchContainer/Sand/PM_FN_Footsteps_2B_10C4C929.wem"
+     },
+     {
+      "Id": "44118041",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ambient-03.wav",
+      "CachePath": "SFX/ambient-03_E84716CF.wem"
+     },
+     {
+      "Id": "51943706",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\PlayerFireRandomContainer\\PM_FN_Weapons_7B.wav",
+      "CachePath": "SFX/FPS_Wwise/PlayerFireRandomContainer/PM_FN_Weapons_7B_569C59C1.wem"
+     },
+     {
+      "Id": "107808402",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\FoodstepSwitchContainer\\Stone\\PM_FN_Footsteps_1A.wav",
+      "CachePath": "SFX/FPS_Wwise/FoodstepSwitchContainer/Stone/PM_FN_Footsteps_1A_10C4C929.wem"
+     },
+     {
+      "Id": "110188414",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 13.wav",
+      "CachePath": "SFX/SingleStepOnWood 13_10C4C929.wem"
+     },
+     {
+      "Id": "126116692",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 1.wav",
+      "CachePath": "SFX/SingleStepOnWood 1_10C4C929.wem"
+     },
+     {
+      "Id": "146835808",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "BATTLE2-B-2.wav",
+      "CachePath": "SFX/BATTLE2-B-2_E84716CF.wem"
+     },
+     {
+      "Id": "151081080",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Drumloop-B.wav",
+      "CachePath": "SFX/Drumloop-B_E84716CF.wem"
+     },
+     {
+      "Id": "166739761",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ambient-02.wav",
+      "CachePath": "SFX/ambient-02_E84716CF.wem"
+     },
+     {
+      "Id": "187755634",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\FoodstepSwitchContainer\\Grass\\PM_FN_Footsteps_3D.wav",
+      "CachePath": "SFX/FPS_Wwise/FoodstepSwitchContainer/Grass/PM_FN_Footsteps_3D_10C4C929.wem"
+     },
+     {
+      "Id": "199529282",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "BATTLE2-A-2.wav",
+      "CachePath": "SFX/BATTLE2-A-2_E84716CF.wem"
+     },
+     {
+      "Id": "217905701",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\FoodstepSwitchContainer\\Sand\\PM_FN_Footsteps_2C.wav",
+      "CachePath": "SFX/FPS_Wwise/FoodstepSwitchContainer/Sand/PM_FN_Footsteps_2C_10C4C929.wem"
+     },
+     {
+      "Id": "218990993",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 12.wav",
+      "CachePath": "SFX/SingleStepOnWood 12_10C4C929.wem"
+     },
+     {
+      "Id": "228912793",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 6.wav",
+      "CachePath": "SFX/SingleStepOnWood 6_10C4C929.wem"
+     },
+     {
+      "Id": "249082284",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\FoodstepSwitchContainer\\Grass\\PM_FN_Footsteps_3A.wav",
+      "CachePath": "SFX/FPS_Wwise/FoodstepSwitchContainer/Grass/PM_FN_Footsteps_3A_10C4C929.wem"
+     },
+     {
+      "Id": "276633726",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\PlayerLandedSwitchContainer\\Stone\\PM_FN_Footsteps_1B.wav",
+      "CachePath": "SFX/FPS_Wwise/PlayerLandedSwitchContainer/Stone/PM_FN_Footsteps_1B_10C4C929.wem"
+     },
+     {
+      "Id": "280314959",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "E_Bass-A.wav",
+      "CachePath": "SFX/E_Bass-A_E84716CF.wem"
+     },
+     {
+      "Id": "309761918",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\FoodstepSwitchContainer\\Grass\\PM_FN_Footsteps_3C.wav",
+      "CachePath": "SFX/FPS_Wwise/FoodstepSwitchContainer/Grass/PM_FN_Footsteps_3C_10C4C929.wem"
+     },
+     {
+      "Id": "317248524",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "BtoA-2.wav",
+      "CachePath": "SFX/BtoA-2_E84716CF.wem"
+     },
+     {
+      "Id": "320551227",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AtoB-2.wav",
+      "CachePath": "SFX/AtoB-2_E84716CF.wem"
+     },
+     {
+      "Id": "384534769",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 4.wav",
+      "CachePath": "SFX/SingleStepOnWood 4_10C4C929.wem"
+     },
+     {
+      "Id": "410219812",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 11.wav",
+      "CachePath": "SFX/SingleStepOnWood 11_10C4C929.wem"
+     },
+     {
+      "Id": "443726520",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Drumloop-A.wav",
+      "CachePath": "SFX/Drumloop-A_E84716CF.wem"
+     },
+     {
+      "Id": "493024243",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "E_Bass-B.wav",
+      "CachePath": "SFX/E_Bass-B_E84716CF.wem"
+     },
+     {
+      "Id": "531248242",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "A-2.wav",
+      "CachePath": "SFX/A-2_E84716CF.wem"
+     },
+     {
+      "Id": "555059247",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\PlayerFireRandomContainer\\PM_FN_Weapons_7C.wav",
+      "CachePath": "SFX/FPS_Wwise/PlayerFireRandomContainer/PM_FN_Weapons_7C_569C59C1.wem"
+     },
+     {
+      "Id": "568031898",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "AtoB-1.wav",
+      "CachePath": "SFX/AtoB-1_E84716CF.wem"
+     },
+     {
+      "Id": "582492518",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\FoodstepSwitchContainer\\Stone\\PM_FN_Footsteps_1D.wav",
+      "CachePath": "SFX/FPS_Wwise/FoodstepSwitchContainer/Stone/PM_FN_Footsteps_1D_10C4C929.wem"
+     },
+     {
+      "Id": "591148687",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\ProjectileLaunch_RC\\Weapon Bow Cross Bow 01.wav",
+      "CachePath": "SFX/FPS_Wwise/ProjectileLaunch_RC/Weapon Bow Cross Bow 01_569C59C1.wem"
+     },
+     {
+      "Id": "592257345",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 17.wav",
+      "CachePath": "SFX/SingleStepOnWood 17_10C4C929.wem"
+     },
+     {
+      "Id": "613090454",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 7.wav",
+      "CachePath": "SFX/SingleStepOnWood 7_10C4C929.wem"
+     },
+     {
+      "Id": "624088963",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pluck-B.wav",
+      "CachePath": "SFX/Pluck-B_E84716CF.wem"
+     },
+     {
+      "Id": "644711878",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 14.wav",
+      "CachePath": "SFX/SingleStepOnWood 14_10C4C929.wem"
+     },
+     {
+      "Id": "679040240",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Percussion-B.wav",
+      "CachePath": "SFX/Percussion-B_E84716CF.wem"
+     },
+     {
+      "Id": "681898710",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Percussion-A.wav",
+      "CachePath": "SFX/Percussion-A_E84716CF.wem"
+     },
+     {
+      "Id": "696071048",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\FoodstepSwitchContainer\\Stone\\PM_FN_Footsteps_1B.wav",
+      "CachePath": "SFX/FPS_Wwise/FoodstepSwitchContainer/Stone/PM_FN_Footsteps_1B_10C4C929.wem"
+     },
+     {
+      "Id": "704051877",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "A_Bass-B.wav",
+      "CachePath": "SFX/A_Bass-B_E84716CF.wem"
+     },
+     {
+      "Id": "707403250",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\FoodstepSwitchContainer\\Grass\\PM_FN_Footsteps_3B.wav",
+      "CachePath": "SFX/FPS_Wwise/FoodstepSwitchContainer/Grass/PM_FN_Footsteps_3B_10C4C929.wem"
+     },
+     {
+      "Id": "716816845",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ambient-01.wav",
+      "CachePath": "SFX/ambient-01_E84716CF.wem"
+     },
+     {
+      "Id": "732140880",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\FoodstepSwitchContainer\\Sand\\PM_FN_Footsteps_2D.wav",
+      "CachePath": "SFX/FPS_Wwise/FoodstepSwitchContainer/Sand/PM_FN_Footsteps_2D_10C4C929.wem"
+     },
+     {
+      "Id": "739995586",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\FoodstepSwitchContainer\\Sand\\PM_FN_Footsteps_2A.wav",
+      "CachePath": "SFX/FPS_Wwise/FoodstepSwitchContainer/Sand/PM_FN_Footsteps_2A_10C4C929.wem"
+     },
+     {
+      "Id": "757998522",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "BATTLE2-A-1.wav",
+      "CachePath": "SFX/BATTLE2-A-1_E84716CF.wem"
+     },
+     {
+      "Id": "762115491",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 9.wav",
+      "CachePath": "SFX/SingleStepOnWood 9_10C4C929.wem"
+     },
+     {
+      "Id": "783847368",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "B-2.wav",
+      "CachePath": "SFX/B-2_E84716CF.wem"
+     },
+     {
+      "Id": "833375902",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "BATTLE2-B-1.wav",
+      "CachePath": "SFX/BATTLE2-B-1_E84716CF.wem"
+     },
+     {
+      "Id": "856476446",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 8.wav",
+      "CachePath": "SFX/SingleStepOnWood 8_10C4C929.wem"
+     },
+     {
+      "Id": "910629576",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 5.wav",
+      "CachePath": "SFX/SingleStepOnWood 5_10C4C929.wem"
+     },
+     {
+      "Id": "912126341",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\FoodstepSwitchContainer\\Stone\\PM_FN_Footsteps_1C.wav",
+      "CachePath": "SFX/FPS_Wwise/FoodstepSwitchContainer/Stone/PM_FN_Footsteps_1C_10C4C929.wem"
+     },
+     {
+      "Id": "917787934",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 10.wav",
+      "CachePath": "SFX/SingleStepOnWood 10_10C4C929.wem"
+     },
+     {
+      "Id": "919750411",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\PlayerLandedSwitchContainer\\Sand\\PM_FN_Footsteps_3B.wav",
+      "CachePath": "SFX/FPS_Wwise/PlayerLandedSwitchContainer/Sand/PM_FN_Footsteps_3B_10C4C929.wem"
+     },
+     {
+      "Id": "921819962",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "BtoA-1.wav",
+      "CachePath": "SFX/BtoA-1_E84716CF.wem"
+     },
+     {
+      "Id": "948936493",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "A-1.wav",
+      "CachePath": "SFX/A-1_E84716CF.wem"
+     },
+     {
+      "Id": "985089281",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "B-1.wav",
+      "CachePath": "SFX/B-1_E84716CF.wem"
+     },
+     {
+      "Id": "999526157",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "A_Bass-A.wav",
+      "CachePath": "SFX/A_Bass-A_E84716CF.wem"
+     },
+     {
+      "Id": "1000123590",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "wind-01.wav",
+      "CachePath": "SFX/wind-01_E84716CF.wem"
+     },
+     {
+      "Id": "1004645430",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Pluck-A.wav",
+      "CachePath": "SFX/Pluck-A_E84716CF.wem"
+     },
+     {
+      "Id": "1007545838",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 16.wav",
+      "CachePath": "SFX/SingleStepOnWood 16_10C4C929.wem"
+     },
+     {
+      "Id": "1014718053",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "FPS_Wwise\\PlayerFireRandomContainer\\PM_FN_Weapons_7A.wav",
+      "CachePath": "SFX/FPS_Wwise/PlayerFireRandomContainer/PM_FN_Weapons_7A_569C59C1.wem"
+     },
+     {
+      "Id": "1015541327",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 15.wav",
+      "CachePath": "SFX/SingleStepOnWood 15_10C4C929.wem"
+     },
+     {
+      "Id": "1022240668",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 3.wav",
+      "CachePath": "SFX/SingleStepOnWood 3_10C4C929.wem"
+     },
+     {
+      "Id": "1025803990",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "SingleStepOnWood 2.wav",
+      "CachePath": "SFX/SingleStepOnWood 2_10C4C929.wem"
+     },
+     {
+      "Id": "1044129382",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "wind-02.wav",
+      "CachePath": "SFX/wind-02_E84716CF.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2678880713",
+      "Name": "Fire",
+      "ObjectPath": "\\Events\\Default Work Unit\\Weapons\\Fire",
+      "GUID": "{BDF6736E-4ECB-4D85-8F12-3EDBA0C26968}",
+      "DurationType": "OneShot",
+      "DurationMin": "1",
+      "DurationMax": "1",
+      "MediaRefs": [
+       {
+        "Id": "51943706"
+       },
+       {
+        "Id": "555059247"
+       },
+       {
+        "Id": "1014718053"
+       }
+      ]
+     },
+     {
+      "Id": "4063547152",
+      "Name": "ProjectleLaunch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Weapons\\ProjectleLaunch",
+      "GUID": "{F7730EDD-B304-418E-B4B1-18EEED6691DD}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.628",
+      "DurationMax": "0.628",
+      "MediaRefs": [
+       {
+        "Id": "591148687"
+       }
+      ]
+     },
+     {
+      "Id": "4188930375",
+      "Name": "SingleStep",
+      "ObjectPath": "\\Events\\Default Work Unit\\BasicMovement\\SingleStep",
+      "GUID": "{73BE07CC-9D31-4AFE-BBDD-5F904FEC648B}",
+      "MaxAttenuation": "5000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.30508232",
+      "DurationMax": "0.6775417",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "4100754533",
+         "Id": "4248645337",
+         "GUID": "{C882C33E-D034-4220-9C3C-A3BB4941A70F}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "187755634"
+         },
+         {
+          "Id": "249082284"
+         },
+         {
+          "Id": "309761918"
+         },
+         {
+          "Id": "707403250"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "4100754533",
+         "Id": "803837735",
+         "GUID": "{7114C5B9-3039-46AE-B5D3-8D199647A31C}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "18704011"
+         },
+         {
+          "Id": "217905701"
+         },
+         {
+          "Id": "732140880"
+         },
+         {
+          "Id": "739995586"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "4100754533",
+         "Id": "1216965916",
+         "GUID": "{8421ABDA-49A2-4B00-BCA4-BC8D51FCB516}",
+         "Default": "true"
+        },
+        "MediaRefs": [
+         {
+          "Id": "107808402"
+         },
+         {
+          "Id": "582492518"
+         },
+         {
+          "Id": "696071048"
+         },
+         {
+          "Id": "912126341"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "4100754533",
+         "Id": "2058049674",
+         "GUID": "{0F4323E5-AFCB-4628-988B-D45B2278E916}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "110188414"
+         },
+         {
+          "Id": "126116692"
+         },
+         {
+          "Id": "218990993"
+         },
+         {
+          "Id": "228912793"
+         },
+         {
+          "Id": "384534769"
+         },
+         {
+          "Id": "410219812"
+         },
+         {
+          "Id": "592257345"
+         },
+         {
+          "Id": "613090454"
+         },
+         {
+          "Id": "644711878"
+         },
+         {
+          "Id": "762115491"
+         },
+         {
+          "Id": "856476446"
+         },
+         {
+          "Id": "910629576"
+         },
+         {
+          "Id": "917787934"
+         },
+         {
+          "Id": "1007545838"
+         },
+         {
+          "Id": "1015541327"
+         },
+         {
+          "Id": "1022240668"
+         },
+         {
+          "Id": "1025803990"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Id": "3963271801",
+      "Name": "StartAmbient",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\SoundEvent\\StartAmbient",
+      "GUID": "{4626370D-9409-4DE1-BD30-3901E6717353}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "44118041"
+       },
+       {
+        "Id": "166739761"
+       },
+       {
+        "Id": "716816845"
+       }
+      ],
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3205010075",
+         "Id": "2937832959",
+         "GUID": "{A8BCD657-6E90-4FA4-AEDD-32620F2152DC}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "151081080"
+         },
+         {
+          "Id": "280314959"
+         },
+         {
+          "Id": "443726520"
+         },
+         {
+          "Id": "493024243"
+         },
+         {
+          "Id": "624088963"
+         },
+         {
+          "Id": "679040240"
+         },
+         {
+          "Id": "681898710"
+         },
+         {
+          "Id": "704051877"
+         },
+         {
+          "Id": "999526157"
+         },
+         {
+          "Id": "1004645430"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3205010075",
+         "Id": "2813898847",
+         "GUID": "{F2B9ADF7-C613-45B2-9000-DE9A1B7A2799}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "146835808"
+         },
+         {
+          "Id": "199529282"
+         },
+         {
+          "Id": "317248524"
+         },
+         {
+          "Id": "320551227"
+         },
+         {
+          "Id": "568031898"
+         },
+         {
+          "Id": "757998522"
+         },
+         {
+          "Id": "833375902"
+         },
+         {
+          "Id": "921819962"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "3205010075",
+         "Id": "579523862",
+         "GUID": "{52015978-B0BC-4653-BAF6-C5B4C23C687D}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "531248242"
+         },
+         {
+          "Id": "783847368"
+         },
+         {
+          "Id": "948936493"
+         },
+         {
+          "Id": "985089281"
+         }
+        ]
+       }
+      ],
+      "ActionSetState": [
+       {
+        "GroupId": "3205010075",
+        "Id": "579523862",
+        "Name": "EXPLORE",
+        "ObjectPath": "\\States\\Default Work Unit\\BattleStateGroup\\EXPLORE",
+        "GUID": "{52015978-B0BC-4653-BAF6-C5B4C23C687D}"
+       }
+      ]
+     },
+     {
+      "Id": "10099645",
+      "Name": "StartBattle",
+      "ObjectPath": "\\Events\\Default Work Unit\\BattleMusic\\StartBattle",
+      "GUID": "{0ED3F1E4-AA6C-47F4-B288-A13BDFD9EBF2}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "3205010075",
+        "Id": "2937832959",
+        "Name": "BATTLE",
+        "ObjectPath": "\\States\\Default Work Unit\\BattleStateGroup\\BATTLE",
+        "GUID": "{A8BCD657-6E90-4FA4-AEDD-32620F2152DC}"
+       }
+      ]
+     },
+     {
+      "Id": "2946083509",
+      "Name": "StartBattle2",
+      "ObjectPath": "\\Events\\Default Work Unit\\BattleMusic\\StartBattle2",
+      "GUID": "{FF0566E4-EADB-4F09-93FE-718CE24960B5}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "3205010075",
+        "Id": "2813898847",
+        "Name": "BATTLE2",
+        "ObjectPath": "\\States\\Default Work Unit\\BattleStateGroup\\BATTLE2",
+        "GUID": "{F2B9ADF7-C613-45B2-9000-DE9A1B7A2799}"
+       }
+      ]
+     },
+     {
+      "Id": "3961007748",
+      "Name": "StartExplore",
+      "ObjectPath": "\\Events\\Default Work Unit\\BattleMusic\\StartExplore",
+      "GUID": "{79A0BABC-C6E2-407E-8FCE-F0F2286D59E0}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "3205010075",
+        "Id": "579523862",
+        "Name": "EXPLORE",
+        "ObjectPath": "\\States\\Default Work Unit\\BattleStateGroup\\EXPLORE",
+        "GUID": "{52015978-B0BC-4653-BAF6-C5B4C23C687D}"
+       }
+      ]
+     },
+     {
+      "Id": "905321764",
+      "Name": "StartLand",
+      "ObjectPath": "\\Events\\Default Work Unit\\BasicMovement\\StartLand",
+      "GUID": "{D291B2CD-1093-46CC-8985-3F570267AF85}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.492",
+      "DurationMax": "0.5",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "4100754533",
+         "Id": "4248645337",
+         "GUID": "{C882C33E-D034-4220-9C3C-A3BB4941A70F}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "919750411"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "4100754533",
+         "Id": "803837735",
+         "GUID": "{7114C5B9-3039-46AE-B5D3-8D199647A31C}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "919750411"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "4100754533",
+         "Id": "1216965916",
+         "GUID": "{8421ABDA-49A2-4B00-BCA4-BC8D51FCB516}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "276633726"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "4100754533",
+         "Id": "2058049674",
+         "GUID": "{0F4323E5-AFCB-4628-988B-D45B2278E916}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "276633726"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Id": "2415094349",
+      "Name": "StartWind",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\SoundEvent\\StartWind",
+      "GUID": "{0BEF8F79-E36D-4FF6-87F6-07D69A8F3DE6}",
+      "DurationType": "OneShot",
+      "DurationMin": "24",
+      "DurationMax": "35.683266",
+      "MediaRefs": [
+       {
+        "Id": "1000123590"
+       },
+       {
+        "Id": "1044129382"
+       }
+      ]
+     },
+     {
+      "Id": "1552937243",
+      "Name": "StopAmbient",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\SoundEvent\\StopAmbient",
+      "GUID": "{BCE25B12-2D26-43ED-AB17-FF6ACF2C82A4}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "3205010075",
+      "Name": "BattleStateGroup",
+      "ObjectPath": "\\States\\Default Work Unit\\BattleStateGroup",
+      "GUID": "{DCC1C804-8CEC-4EBE-9A22-442BEB164C16}",
+      "States": [
+       {
+        "Id": "579523862",
+        "Name": "EXPLORE",
+        "ObjectPath": "\\States\\Default Work Unit\\BattleStateGroup\\EXPLORE",
+        "GUID": "{52015978-B0BC-4653-BAF6-C5B4C23C687D}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\BattleStateGroup\\None",
+        "GUID": "{A592FB78-BFA3-4EF4-99B8-CB1757F80DCC}"
+       },
+       {
+        "Id": "2813898847",
+        "Name": "BATTLE2",
+        "ObjectPath": "\\States\\Default Work Unit\\BattleStateGroup\\BATTLE2",
+        "GUID": "{F2B9ADF7-C613-45B2-9000-DE9A1B7A2799}"
+       },
+       {
+        "Id": "2937832959",
+        "Name": "BATTLE",
+        "ObjectPath": "\\States\\Default Work Unit\\BattleStateGroup\\BATTLE",
+        "GUID": "{A8BCD657-6E90-4FA4-AEDD-32620F2152DC}"
+       }
+      ]
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "4100754533",
+      "Name": "Terrain_SG",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Terrain_SG",
+      "GUID": "{26C09E28-7BA4-4C94-A853-1BD2D00BCE18}",
+      "Switches": [
+       {
+        "Id": "803837735",
+        "Name": "Sand",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Terrain_SG\\Sand",
+        "GUID": "{7114C5B9-3039-46AE-B5D3-8D199647A31C}"
+       },
+       {
+        "Id": "1216965916",
+        "Name": "Stone",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Terrain_SG\\Stone",
+        "GUID": "{8421ABDA-49A2-4B00-BCA4-BC8D51FCB516}"
+       },
+       {
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Terrain_SG\\Wood",
+        "GUID": "{0F4323E5-AFCB-4628-988B-D45B2278E916}"
+       },
+       {
+        "Id": "4248645337",
+        "Name": "Grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Terrain_SG\\Grass",
+        "GUID": "{C882C33E-D034-4220-9C3C-A3BB4941A70F}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{47EAA35B-D375-F805-ABE1-227657C6A72F}"
+ }
+}

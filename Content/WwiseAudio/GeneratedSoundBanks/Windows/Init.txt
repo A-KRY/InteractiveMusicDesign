@@ -1,0 +1,49 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	3205010075	BattleStateGroup			\Default Work Unit\BattleStateGroup	
+
+State	ID	Name	State Group			Notes
+	579523862	EXPLORE	BattleStateGroup			
+	748895195	None	BattleStateGroup			
+	2813898847	BATTLE2	BattleStateGroup			
+	2937832959	BATTLE	BattleStateGroup			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	194404061	Predelay			\Default Work Unit\Reverb\Predelay	
+	504532776	Brick			\Factory Acoustic Textures\Textures\Brick	
+	513139656	Mountain			\Factory Acoustic Textures\Textures\Mountain	
+	841620460	Concrete			\Factory Acoustic Textures\Textures\Concrete	
+	1299678381	Decay			\Default Work Unit\Reverb\Decay	
+	1755085759	Wood_Deep			\Factory Acoustic Textures\Textures\Wood_Deep	
+	1873957695	Anechoic			\Factory Acoustic Textures\Textures\Anechoic	
+	1970351858	Fabric			\Factory Acoustic Textures\Textures\Fabric	
+	2058049674	Wood			\Factory Acoustic Textures\Textures\Wood	
+	2412606308	Carpet			\Factory Acoustic Textures\Textures\Carpet	
+	2637588553	Tile			\Factory Acoustic Textures\Textures\Tile	
+	2928161104	Curtains			\Factory Acoustic Textures\Textures\Curtains	
+	2947715227	HFDamping			\Default Work Unit\Reverb\HFDamping	
+	3195498748	Cork_Tiles			\Factory Acoustic Textures\Textures\Cork_Tiles	
+	3647684119	HealthPoint			\Default Work Unit\HealthPoint	
+	3670307564	Drywall			\Factory Acoustic Textures\Textures\Drywall	
+	4168643977	Acoustic_Banner			\Factory Acoustic Textures\Textures\Acoustic_Banner	
+	4262522749	Wood_Bright			\Factory Acoustic Textures\Textures\Wood_Bright	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1502772432	SFX Bus			\Default Work Unit\Master Audio Bus\SFX Bus	
+	3127962312	Music Bus			\Default Work Unit\Master Audio Bus\Music Bus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	187046019	LargeRoom			\Default Work Unit\Master Audio Bus\LargeRoom	
+	1245295233	MediumRoom			\Default Work Unit\Master Audio Bus\MediumRoom	
+	2933838247	SmallRoom			\Default Work Unit\Master Audio Bus\SmallRoom	
+
+Effect plug-ins	ID	Name	Type				Notes
+	602546716	Room_Large	Wwise RoomVerb			
+	1008402193	Low_Pass_20KHz	Wwise Parametric EQ			
+	1159390747	Room_Medium_Tiled	Wwise RoomVerb			
+	2995775460	Room_Small	Wwise RoomVerb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

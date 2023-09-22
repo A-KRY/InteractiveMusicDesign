@@ -1,0 +1,62 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "145",
+  "SoundBanks": [
+   {
+    "Id": "1245295233",
+    "Type": "Bus",
+    "GUID": "{474FA8BE-0975-4ACB-ABCF-11C125A63814}",
+    "Language": "SFX",
+    "Hash": "{5CA8A07B-A18D-3048-9010-299C9E2EB01A}",
+    "ObjectPath": "MediumRoom",
+    "ShortName": "MediumRoom",
+    "Path": "Bus/MediumRoom.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "1159390747",
+       "Name": "Room_Medium_Tiled",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Rooms\\Room_Medium_Tiled",
+       "GUID": "{0C0A3A92-A571-4FDB-AB40-ACFED04E0217}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "1245295233",
+      "Name": "MediumRoom",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\MediumRoom",
+      "GUID": "{474FA8BE-0975-4ACB-ABCF-11C125A63814}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "1159390747"
+        }
+       ]
+      }
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1299678381",
+      "Name": "Decay",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Reverb\\Decay",
+      "GUID": "{DE583331-4828-4810-8BE6-AE1880513D9E}"
+     },
+     {
+      "Id": "2947715227",
+      "Name": "HFDamping",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Reverb\\HFDamping",
+      "GUID": "{19855140-4B9F-41F3-9E2A-E299A7DB5653}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{271BDC9E-6A52-CD86-AD20-52B990F24314}"
+ }
+}

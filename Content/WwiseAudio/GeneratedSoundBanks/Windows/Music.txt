@@ -1,0 +1,94 @@
+Event	ID	Name			Wwise Object Path	Notes
+	10099645	StartBattle			\Default Work Unit\BattleMusic\StartBattle	
+	905321764	StartLand			\Default Work Unit\BasicMovement\StartLand	
+	1552937243	StopAmbient			\Default Work Unit\Environment\SoundEvent\StopAmbient	
+	2415094349	StartWind			\Default Work Unit\Environment\SoundEvent\StartWind	
+	2678880713	Fire			\Default Work Unit\Weapons\Fire	
+	2946083509	StartBattle2			\Default Work Unit\BattleMusic\StartBattle2	
+	3961007748	StartExplore			\Default Work Unit\BattleMusic\StartExplore	
+	3963271801	StartAmbient			\Default Work Unit\Environment\SoundEvent\StartAmbient	
+	4063547152	ProjectleLaunch			\Default Work Unit\Weapons\ProjectleLaunch	
+	4188930375	SingleStep			\Default Work Unit\BasicMovement\SingleStep	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	4100754533	Terrain_SG			\Default Work Unit\Terrain_SG	
+
+Switch	ID	Name	Switch Group			Notes
+	803837735	Sand	Terrain_SG			
+	1216965916	Stone	Terrain_SG			
+	2058049674	Wood	Terrain_SG			
+	4248645337	Grass	Terrain_SG			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3205010075	BattleStateGroup			\Default Work Unit\BattleStateGroup	
+
+State	ID	Name	State Group			Notes
+	579523862	EXPLORE	BattleStateGroup			
+	748895195	None	BattleStateGroup			
+	2813898847	BATTLE2	BattleStateGroup			
+	2937832959	BATTLE	BattleStateGroup			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	18704011	PM_FN_Footsteps_2B	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\FoodstepSwitchContainer\Sand\PM_FN_Footsteps_2B_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Sand_Footstep_RC\PM_FN_Footsteps_2B		96096
+	44118041	ambient-03	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\ambient-03_E84716CF.wem		\Interactive Music Hierarchy\Environment\Ambient_PC\ambient-03\ambient-03		3272345
+	51943706	PM_FN_Weapons_7B	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\PlayerFireRandomContainer\PM_FN_Weapons_7B_569C59C1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\WeaponFire_RC\PM_FN_Weapons_7B		8273
+	107808402	PM_FN_Footsteps_1A	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\FoodstepSwitchContainer\Stone\PM_FN_Footsteps_1A_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Stone_Footstep_RC\PM_FN_Footsteps_1A		96096
+	110188414	SingleStepOnWood 13	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 13_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 13		130184
+	126116692	SingleStepOnWood 1	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 1		130184
+	146835808	BATTLE2-B-2	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\BATTLE2-B-2_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle2\BATTLE2-B-2\BATTLE2-B-2		412475
+	151081080	Drumloop	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\Drumloop-B_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle\BATTLE\Drumloop		517855
+	166739761	ambient-02	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\ambient-02_E84716CF.wem		\Interactive Music Hierarchy\Environment\Ambient_PC\ambient-02\ambient-02		2608378
+	187755634	PM_FN_Footsteps_3D	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\FoodstepSwitchContainer\Grass\PM_FN_Footsteps_3D_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Grass_Footstep_RC\PM_FN_Footsteps_3D		96096
+	199529282	BATTLE2-A-2	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\BATTLE2-A-2_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle2\BATTLE2-A-2\BATTLE2-A-2		346207
+	217905701	PM_FN_Footsteps_2C	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\FoodstepSwitchContainer\Sand\PM_FN_Footsteps_2C_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Sand_Footstep_RC\PM_FN_Footsteps_2C		96096
+	218990993	SingleStepOnWood 12	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 12_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 12		130184
+	228912793	SingleStepOnWood 6	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 6		130184
+	249082284	PM_FN_Footsteps_3A	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\FoodstepSwitchContainer\Grass\PM_FN_Footsteps_3A_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Grass_Footstep_RC\PM_FN_Footsteps_3A		85856
+	276633726	PlayerLanded_Stone	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\PlayerLandedSwitchContainer\Stone\PM_FN_Footsteps_1B_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\PlayerLanded_SWC\PlayerLanded_Stone		96096
+	280314959	E-Bass	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\E_Bass-A_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle\BATTLE\E-Bass		790329
+	309761918	PM_FN_Footsteps_3C	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\FoodstepSwitchContainer\Grass\PM_FN_Footsteps_3C_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Grass_Footstep_RC\PM_FN_Footsteps_3C		97632
+	317248524	BtoA-2	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\BtoA-2_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle2\BtoA-2\BtoA-2		191586
+	320551227	New Music Track_01	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\AtoB-2_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle2\AtoB-2\New Music Track_01		180377
+	384534769	SingleStepOnWood 4	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 4		130184
+	410219812	SingleStepOnWood 11	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 11_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 11		130184
+	443726520	Drumloop	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\Drumloop-A_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle\BATTLE\Drumloop		598963
+	493024243	E-Bass	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\E_Bass-B_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle\BATTLE\E-Bass		281735
+	531248242	A-2	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\A-2_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Explore\A-2\A-2		529211
+	555059247	PM_FN_Weapons_7C	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\PlayerFireRandomContainer\PM_FN_Weapons_7C_569C59C1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\WeaponFire_RC\PM_FN_Weapons_7C		13043
+	568031898	AtoB-1	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\AtoB-1_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle2\AtoB-1\AtoB-1		174654
+	582492518	PM_FN_Footsteps_1D	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\FoodstepSwitchContainer\Stone\PM_FN_Footsteps_1D_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Stone_Footstep_RC\PM_FN_Footsteps_1D		96096
+	591148687	ProjectileLaunch_SFX	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\ProjectileLaunch_RC\Weapon Bow Cross Bow 01_569C59C1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\ProjectileLaunch_SFX		6642
+	592257345	SingleStepOnWood 17	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 17_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 17		130184
+	613090454	SingleStepOnWood 7	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 7		130184
+	624088963	Pluck	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\Pluck-B_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle\BATTLE\Pluck		760324
+	644711878	SingleStepOnWood 14	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 14_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 14		130184
+	679040240	Percussion1	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\Percussion-B_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle\BATTLE\Percussion1		746787
+	681898710	Percussion1	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\Percussion-A_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle\BATTLE\Percussion1		614926
+	696071048	PM_FN_Footsteps_1B	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\FoodstepSwitchContainer\Stone\PM_FN_Footsteps_1B_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Stone_Footstep_RC\PM_FN_Footsteps_1B		96096
+	704051877	A-Bass	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\A_Bass-B_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle\BATTLE\A-Bass		490755
+	707403250	PM_FN_Footsteps_3B	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\FoodstepSwitchContainer\Grass\PM_FN_Footsteps_3B_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Grass_Footstep_RC\PM_FN_Footsteps_3B		94560
+	716816845	ambient-01	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\ambient-01_E84716CF.wem		\Interactive Music Hierarchy\Environment\Ambient_PC\ambient-01\ambient-01		8449508
+	732140880	PM_FN_Footsteps_2D	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\FoodstepSwitchContainer\Sand\PM_FN_Footsteps_2D_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Sand_Footstep_RC\PM_FN_Footsteps_2D		102752
+	739995586	PM_FN_Footsteps_2A	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\FoodstepSwitchContainer\Sand\PM_FN_Footsteps_2A_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Sand_Footstep_RC\PM_FN_Footsteps_2A		89440
+	757998522	BATTLE2-A-1	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\BATTLE2-A-1_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle2\BATTLE2-A-1\BATTLE2-A-1		355868
+	762115491	SingleStepOnWood 9	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 9_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 9		130184
+	783847368	B-2	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\B-2_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Explore\B-2\B-2		520149
+	833375902	BATTLE2-B-1	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\BATTLE2-B-1_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle2\BATTLE2-B-1\BATTLE2-B-1		401289
+	856476446	SingleStepOnWood 8	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 8		130184
+	910629576	SingleStepOnWood 5	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 5		130184
+	912126341	PM_FN_Footsteps_1C	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\FoodstepSwitchContainer\Stone\PM_FN_Footsteps_1C_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Stone_Footstep_RC\PM_FN_Footsteps_1C		96096
+	917787934	SingleStepOnWood 10	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 10		130184
+	919750411	PlayerLanded_Sand	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\PlayerLandedSwitchContainer\Sand\PM_FN_Footsteps_3B_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\PlayerLanded_SWC\PlayerLanded_Sand		94560
+	921819962	BtoA-1	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\BtoA-1_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle2\BtoA-1\BtoA-1		265798
+	948936493	A-1	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\A-1_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Explore\A-1\A-1		567256
+	985089281	B-1	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\B-1_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Explore\B-1\B-1		513362
+	999526157	A-Bass	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\A_Bass-A_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle\BATTLE\A-Bass		504808
+	1000123590	wind-01	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\wind-01_E84716CF.wem		\Interactive Music Hierarchy\Environment\Wind_PC\wind-01\wind-01		196008
+	1004645430	Pluck	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\Pluck-A_E84716CF.wem		\Interactive Music Hierarchy\Battle Unit\Battle Switch Container\Battle\BATTLE\Pluck		705259
+	1007545838	SingleStepOnWood 16	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 16_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 16		130184
+	1014718053	PM_FN_Weapons_7A	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\FPS_Wwise\PlayerFireRandomContainer\PM_FN_Weapons_7A_569C59C1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Weapons\WeaponFire_RC\PM_FN_Weapons_7A		13008
+	1015541327	SingleStepOnWood 15	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 15_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 15		130184
+	1022240668	SingleStepOnWood 3	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 3		130184
+	1025803990	SingleStepOnWood 2	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\SingleStepOnWood 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BasicMovement\Footstep_SWC\Wood_Footstep_RC\SingleStepOnWood 2		130184
+	1044129382	wind-02	H:\Projects\Wwise\InteractiveMusicDesign\InteractiveMusicDesign\.cache\Windows\SFX\wind-02_E84716CF.wem		\Interactive Music Hierarchy\Environment\Wind_PC\wind-02\wind-02		472805
+

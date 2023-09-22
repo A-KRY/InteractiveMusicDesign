@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="145">
+	<SoundBanks>
+		<SoundBank Id="1245295233" Type="Bus" GUID="{474FA8BE-0975-4ACB-ABCF-11C125A63814}" Language="SFX" Hash="{5CA8A07B-A18D-3048-9010-299C9E2EB01A}">
+			<ObjectPath>MediumRoom</ObjectPath>
+			<ShortName>MediumRoom</ShortName>
+			<Path>Bus/MediumRoom.bnk</Path>
+			<Plugins>
+				<ShareSets>
+					<Plugin Id="1159390747" Name="Room_Medium_Tiled" ObjectPath="\Effects\Factory Effects\RoomVerb\Rooms\Room_Medium_Tiled" GUID="{0C0A3A92-A571-4FDB-AB40-ACFED04E0217}" LibName="Wwise RoomVerb" LibId="7733251"/>
+				</ShareSets>
+			</Plugins>
+			<AuxBusses>
+				<AuxBus Id="1245295233" Name="MediumRoom" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\MediumRoom" GUID="{474FA8BE-0975-4ACB-ABCF-11C125A63814}">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="1159390747"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+			</AuxBusses>
+			<GameParameters>
+				<GameParameter Id="1299678381" Name="Decay" ObjectPath="\Game Parameters\Default Work Unit\Reverb\Decay" GUID="{DE583331-4828-4810-8BE6-AE1880513D9E}"/>
+				<GameParameter Id="2947715227" Name="HFDamping" ObjectPath="\Game Parameters\Default Work Unit\Reverb\HFDamping" GUID="{19855140-4B9F-41F3-9E2A-E299A7DB5653}"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{42880851-2C85-9F19-4022-77FF7D8F284E}</FileHash>
+</SoundBanksInfo>

@@ -1,0 +1,68 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "145",
+  "SoundBanks": [
+   {
+    "Id": "187046019",
+    "Type": "Bus",
+    "GUID": "{8294F217-8DCD-49BD-9007-431F1DFE5003}",
+    "Language": "SFX",
+    "Hash": "{F32A0CD3-903E-0F15-CBF7-F9011417A354}",
+    "ObjectPath": "LargeRoom",
+    "ShortName": "LargeRoom",
+    "Path": "Bus/LargeRoom.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "602546716",
+       "Name": "Room_Large",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Rooms\\Room_Large",
+       "GUID": "{AD8EFAFC-7121-4D5F-BE4D-B13FBD6CEBAE}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "187046019",
+      "Name": "LargeRoom",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\LargeRoom",
+      "GUID": "{8294F217-8DCD-49BD-9007-431F1DFE5003}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "602546716"
+        }
+       ]
+      }
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "194404061",
+      "Name": "Predelay",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Reverb\\Predelay",
+      "GUID": "{30338761-DD86-49B9-9C90-DEAA5ADBF492}"
+     },
+     {
+      "Id": "1299678381",
+      "Name": "Decay",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Reverb\\Decay",
+      "GUID": "{DE583331-4828-4810-8BE6-AE1880513D9E}"
+     },
+     {
+      "Id": "2947715227",
+      "Name": "HFDamping",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Reverb\\HFDamping",
+      "GUID": "{19855140-4B9F-41F3-9E2A-E299A7DB5653}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{41BDBCDC-C2DB-2C47-F160-42136DAB3C3B}"
+ }
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="145">
+	<SoundBanks>
+		<SoundBank Id="2933838247" Type="Bus" GUID="{21236269-BD3F-4F35-9992-C591061869E0}" Language="SFX" Hash="{86A4CA3E-0BD7-CF5B-2BEE-F1BD329FB44A}">
+			<ObjectPath>SmallRoom</ObjectPath>
+			<ShortName>SmallRoom</ShortName>
+			<Path>Bus/SmallRoom.bnk</Path>
+			<Plugins>
+				<ShareSets>
+					<Plugin Id="2995775460" Name="Room_Small" ObjectPath="\Effects\Factory Effects\RoomVerb\Rooms\Room_Small" GUID="{577F1466-A63B-47F7-98BD-C56E433F8B5D}" LibName="Wwise RoomVerb" LibId="7733251"/>
+				</ShareSets>
+			</Plugins>
+			<AuxBusses>
+				<AuxBus Id="2933838247" Name="SmallRoom" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoom" GUID="{21236269-BD3F-4F35-9992-C591061869E0}">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+			</AuxBusses>
+			<GameParameters>
+				<GameParameter Id="194404061" Name="Predelay" ObjectPath="\Game Parameters\Default Work Unit\Reverb\Predelay" GUID="{30338761-DD86-49B9-9C90-DEAA5ADBF492}"/>
+				<GameParameter Id="1299678381" Name="Decay" ObjectPath="\Game Parameters\Default Work Unit\Reverb\Decay" GUID="{DE583331-4828-4810-8BE6-AE1880513D9E}"/>
+				<GameParameter Id="2947715227" Name="HFDamping" ObjectPath="\Game Parameters\Default Work Unit\Reverb\HFDamping" GUID="{19855140-4B9F-41F3-9E2A-E299A7DB5653}"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{B14D65E2-B9FD-C38F-0892-65CEB7825227}</FileHash>
+</SoundBanksInfo>
